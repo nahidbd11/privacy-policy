@@ -39,6 +39,23 @@ This Services do not address anyone under the age of 13. We do not knowingly col
 
 ### Changes to This Privacy Policy  
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
+### Image Collection and Usage
+Why We Collect Images:
+
+We collect images to enable certain features of the app (for example, user profile photos, proof of service, or other functionalities).
+How We Use Images:
+
+Images you provide may be uploaded to our servers to facilitate the features you choose to use.
+We only use your images for the specific purpose they were collected (e.g., displaying profile pictures, processing service requests).
+We do not share or sell your images to third parties for marketing or advertising.
+Storage and Retention:
+
+Images are stored securely on our servers or with third-party cloud providers that adhere to industry security standards.
+We retain images only as long as needed to provide the requested Service or as required by law.
+User Consent:
+
+Before granting the app access to your device’s camera or storage, you will be prompted with a disclosure explaining how and why your images are collected.
+You can decline to provide images; however, certain features may be unavailable without them.
 
 ### Contact Us  
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
